@@ -1,6 +1,10 @@
-# Full stack study project based on Udemy
+# Full stack study project
 
-## Tech stack:
+## Goal
+
+- Create a nice full-stack project using NodeJS & React
+
+## Tech stack
 
 - HTML
 - CSS
