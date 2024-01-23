@@ -1,6 +1,6 @@
 import { CATEGORIES } from "../data/data";
 
-export function Fact({ fact }) {
+function Fact({ fact }) {
   return (
     <li className="fact">
       <p>
@@ -26,3 +26,5 @@ export function Fact({ fact }) {
     </li>
   );
 }
+
+export default Fact;

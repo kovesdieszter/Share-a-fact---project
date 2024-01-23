@@ -1,4 +1,4 @@
-import { Fact } from "./Fact";
+import Fact from "./Fact";
 
 function FactList({ facts }) {
   return (
