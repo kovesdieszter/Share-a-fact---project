@@ -1,12 +1,17 @@
-# Full stack study project
+# Post it here
 
-## Goal
+### Full - stack study project
 
-- Create a nice full-stack project using NodeJS & React
+## Goals
+
+- Creating a nice full-stack project using Supabase & React
+- Using Supabase for the first time
+- Using simple CSS, instead of component library
 
 ## Tech stack
 
-- HTML
-- CSS
 - React
-- NodeJS
+- Supabase
+- CSS
+- HTML
+- Netlify
