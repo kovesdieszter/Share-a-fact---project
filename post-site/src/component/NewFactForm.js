@@ -31,7 +31,7 @@ function NewFactForm({ setFacts, setShowForm }) {
 
       setIsUploading(true);
 
-      setFacts((facts) => [newFact[0], ...facts]);
+      if (!error) setFacts((facts) => [newFact[0], ...facts]);
 
       setText("");
       setSource("");
