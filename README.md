@@ -12,7 +12,7 @@
 
 - User can add a new fact
 - User can filter the facts by categories
-- User can vote the facts
+- User can vote for the facts
 
 ## Tech stack
 
